@@ -11,5 +11,5 @@ Implementation of A* pathfinding algorithm in Ruby
 ## Evidence
 
 <p align="center">
-  <img width="460" height="300" src="https://raw.githubusercontent.com/DiracSpace/AStar_Search/main/evidenceRubyProject.PNG">
+  <img src="https://raw.githubusercontent.com/DiracSpace/AStar_Search/main/evidenceRubyProject.PNG">
 </p>
